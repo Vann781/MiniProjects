@@ -1,0 +1,5 @@
+text2emotion==0.0.5
+emoji==1.6.3
+nltk
+SpeechRecognition==3.8.1
+PyAudio==0.2.13
