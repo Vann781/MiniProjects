@@ -21,7 +21,7 @@ with sr.Microphone() as source:
 
         print(emotion)
 
-        # Use timestamp as filename inside "notes" folder
+        
         timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
         filename = f"notes/entry_{timestamp}.txt"
 

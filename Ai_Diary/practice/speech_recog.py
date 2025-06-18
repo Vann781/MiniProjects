@@ -12,7 +12,7 @@ with sr.Microphone() as source:
         text = r.recognize_google(audio)
         print("✅ You said:", text)
 
-        # Use timestamp as filename
+        
         timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
         filename = f"entry_{timestamp}.txt"
 
