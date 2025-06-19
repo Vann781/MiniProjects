@@ -1,4 +1,4 @@
-# MiniProjects_Vann
+# MiniProjects
 📝 AI Voice Diary (with Emotion Detection)
 This is a simple AI-powered Voice Diary app — where you can speak your diary entry → it converts speech to text → detects the emotion using HuggingFace transformers → and saves it in a "notes" folder as a text file.
 
