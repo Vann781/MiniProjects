@@ -1,4 +1,4 @@
-Problems Faced While Building My AI Diary App
+Problems Faced While Building My AI Diary
 Using Python + HuggingFace Transformers + Speech Recognition + Firebase
 
 1️⃣ Version Compatibility Issues
